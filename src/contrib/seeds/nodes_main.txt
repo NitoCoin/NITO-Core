@@ -1,0 +1,7 @@
+95.217.133.197:12200 # Node1
+5.75.137.155:12200 # Node2
+62.45.99.156:12200 # Node3
+[2a01:4f9:c012:d9f9::1]:12200 # Node1
+[2a01:4f8:1c1e:9780::1]:12200 # Node2
+iy7go4454pb4p2zmnkwrgsi6v6oqv53zxnmalz6rnfjemxftapxx.b32.i2p:0
+ycdw2e4ufgfwhcqna4g3m2qsvaly23ozaexawcj3x4gtgcehgwujjgxx.onion:12200
