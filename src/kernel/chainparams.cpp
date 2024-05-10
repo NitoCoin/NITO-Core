@@ -2,7 +2,6 @@
 // Copyright (c) 2009-2021 The Bitcoin Core developers
 // Copyright (c) 2024 The Nito Core developers
 // Copyright (c) 2024 The Nito Core developers
-// Copyright (c) 2024 The Nito Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -108,7 +107,7 @@ public:
         consensus.vDeployments[Consensus::DEPLOYMENT_TAPROOT].nTimeout = 1713913311;
         consensus.vDeployments[Consensus::DEPLOYMENT_TAPROOT].min_activation_height = 0; // 2027
         consensus.nMinimumChainWork = uint256S("0x0000000000000000000000000000000000000000000000000000000100010001");
-        consensus.defaultAssumeValid = uint256S("0x0000000000ae20c4552e1d523dc544583fe8931e804dbad984a19f4c321c96a7");
+        consensus.defaultAssumeValid = uint256S("0x000000002d0fccf3f09ef0f851a21ba2686300c62294723c2882a8629e8f7e47"); //2500
 
         /**
          * The message start string is designed to be unlikely to occur in normal data.
@@ -159,8 +158,8 @@ public:
             {
                 { 0, uint256S("0x000000001658918d7ae7b42b1c601d7bd95446e5861c5cf50ed5ec41424bc721")},
                 { 50, uint256S("0x00000000d2252b837f67bd169057ea5221e8d301d21c4e1a7c98cbbe8db4e42d")},
-                { 100, uint256S("0x00000000541473aea06c5808b84fb7d5aa47527487eca0118c276cb43eaab153")},
                 { 500, uint256S("0x0000000052a8bde053bb038c488a23c313b6a66269bf223eeb6db6974648b0be")},
+                { 2500, uint256S("0x000000002d0fccf3f09ef0f851a21ba2686300c62294723c2882a8629e8f7e47")},
             }
         };
 
