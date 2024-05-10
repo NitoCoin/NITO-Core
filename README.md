@@ -8,12 +8,6 @@ Nito Core connects to the Nito peer-to-peer network to download and fully valida
 
 
 #
-***License***
-
-License Nito Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
-
-
-#
 ***Nito FAQ***
 
 ***Launch Date:*** may 8th, 2024
@@ -29,3 +23,10 @@ License Nito Core is released under the terms of the MIT license. See COPYING fo
 ***Algorithm:*** SHA256
 
 ***Block Interval:*** 60 Seconds
+
+
+#
+***License***
+
+License Nito Core is released under the terms of the MIT license. See COPYING for more information or see https://opensource.org/licenses/MIT.
+
