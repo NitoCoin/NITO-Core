@@ -24,6 +24,7 @@ Nito Core connects to the Nito peer-to-peer network to download and fully valida
 
 ***Block Interval:*** 60 Seconds
 
+***Port:*** 12200
 
 #
 ***License***
